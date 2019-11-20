@@ -1,2 +1,2 @@
 # ps4_SHO
-Heat capacity computation for vibrational, rotational, and translational modes
+Heat capacity calculation for vibrational, rotational, and translational modes
